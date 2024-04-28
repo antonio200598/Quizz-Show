@@ -20,6 +20,9 @@
 
 This project uses a number of open source projects to work properly:
 
+- [Node.js](https://nodejs.org) - evented I/O for the backend
+- [Express](https://expressjs.com) - fast node.js network app framework
+- [TypeOrm](https://typeorm.io) - TypeORM is an ORM that can run in NodeJS 
 
 ### Links
 
