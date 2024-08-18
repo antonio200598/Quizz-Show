@@ -28,6 +28,7 @@ This project uses a number of open source projects to work properly:
 
 - [Github Repository](https://github.com/antonio200598/Quizz-Show)
 - [Interface Prototyping](https://www.figma.com/file/hSLlnNymgn4GL9zKUVcGxf/show-do-milh%C3%A3o?node-id=0%3A1)
+- [Requirements Document](Docs/Documento de Requisitos - Show do Milhão.pdf)
 
 ### Members
 
